@@ -1,0 +1,137 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "what": "What?",
+      "platforms": "Platforms"
+    },
+    "hero": {
+      "title": "Hello, I'm PatrikLani",
+      "description": "A polish boy passionate about coding and technology.",
+      "cta": "Learn more"
+    },
+    "what": {
+      "title": "What is PatrikLani?",
+      "description": "PatrikLani has been around since 2019, starting with video randomness and gaming on YouTube, alongside art on DeviantArt. These days, I focus on coding (mainly on GitHub) and technology. While I still draw, that's under <a href=\"https://liophex.net\" target=\"_blank\" rel=\"noopener\">Liophex</a>, one of my current identities. PatrikLani is all about the tech side."
+    },
+    "lanie": {
+      "title": "Meet Lanie!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "platforms": {
+      "title": "Find me on",
+      "discord": "Join the server"
+    },
+    "footer": {
+      "backToTop": "Back to top"
+    }
+  },
+  "pl": {
+    "nav": {
+      "home": "Strona główna",
+      "what": "Co?",
+      "platforms": "Platformy"
+    },
+    "hero": {
+      "title": "Cześć, jestem PatrikLani",
+      "description": "Polski chłopak pasjonujący się kodowaniem i technologią.",
+      "cta": "Dowiedz się więcej"
+    },
+    "what": {
+      "title": "Czym jest PatrikLani?",
+      "description": "PatrikLani istnieje od 2019 roku, zaczynając od losowych filmów i gier na YouTube, a także sztuki na DeviantArt. Obecnie koncentruję się na kodowaniu (głównie na GitHub) i technologii. Choć nadal rysuję, to pod nazwą <a href=\"https://liophex.net\" target=\"_blank\" rel=\"noopener\">Liophex</a>, jedną z moich obecnych tożsamości. PatrikLani to przede wszystkim strona techniczna."
+    },
+    "lanie": {
+      "title": "Poznaj Lanie!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "platforms": {
+      "title": "Znajdź mnie na",
+      "discord": "Dołącz do serwera"
+    },
+    "footer": {
+      "backToTop": "Powrót na górę"
+    }
+  },
+  "lt": {
+    "nav": {
+      "home": "Pradžia",
+      "what": "Kas?",
+      "platforms": "Platformos"
+    },
+    "hero": {
+      "title": "Sveiki, aš PatrikLani",
+      "description": "Lenkų vaikinas, aistringas kodavimo ir technologijų.",
+      "cta": "Sužinoti daugiau"
+    },
+    "what": {
+      "title": "Kas yra PatrikLani?",
+      "description": "PatrikLani egzistuoja nuo 2019 metų, pradėdamas nuo atsitiktinių vaizdo įrašų ir žaidimų YouTube, taip pat meno DeviantArt. Šiandien daugiausia dėmesio skiriu kodavimui (daugiausia GitHub) ir technologijoms. Nors vis dar piešiu, tai darau kaip <a href=\"https://liophex.net\" target=\"_blank\" rel=\"noopener\">Liophex</a>, viena iš dabartinių tapatybių. PatrikLani yra viskas apie techninę pusę."
+    },
+    "lanie": {
+      "title": "Susipažinkite su Lanie!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "platforms": {
+      "title": "Raskite mane",
+      "discord": "Prisijunkite prie serverio"
+    },
+    "footer": {
+      "backToTop": "Atgal į viršų"
+    }
+  },
+  "ru": {
+    "nav": {
+      "home": "Главная",
+      "what": "Что?",
+      "platforms": "Платформы"
+    },
+    "hero": {
+      "title": "Привет, я PatrikLani",
+      "description": "Польский парень, увлечённый программированием и технологиями.",
+      "cta": "Узнать больше"
+    },
+    "what": {
+      "title": "Что такое PatrikLani?",
+      "description": "PatrikLani существует с 2019 года, начиная с случайных видео и игр на YouTube, а также искусства на DeviantArt. Сейчас я сосредоточен на программировании (в основном на GitHub) и технологиях. Хотя я все еще рисую, это под именем <a href=\"https://liophex.net\" target=\"_blank\" rel=\"noopener\">Liophex</a>, одной из моих нынешних личностей. PatrikLani — это всё о технической стороне."
+    },
+    "lanie": {
+      "title": "Познакомьтесь с Lanie!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "platforms": {
+      "title": "Найдите меня",
+      "discord": "Присоединиться к серверу"
+    },
+    "footer": {
+      "backToTop": "Наверх"
+    }
+  },
+  "de": {
+    "nav": {
+      "home": "Startseite",
+      "what": "Was?",
+      "platforms": "Plattformen"
+    },
+    "hero": {
+      "title": "Hallo, ich bin PatrikLani",
+      "description": "Ein polnischer Junge mit Leidenschaft für Programmierung und Technologie.",
+      "cta": "Mehr erfahren"
+    },
+    "what": {
+      "title": "Was ist PatrikLani?",
+      "description": "PatrikLani gibt es seit 2019, angefangen mit zufälligen Videos und Gaming auf YouTube sowie Kunst auf DeviantArt. Heutzutage konzentriere ich mich auf Programmierung (hauptsächlich auf GitHub) und Technologie. Obwohl ich immer noch zeichne, geschieht das unter <a href=\"https://liophex.net\" target=\"_blank\" rel=\"noopener\">Liophex</a>, einer meiner aktuellen Identitäten. PatrikLani dreht sich alles um die technische Seite."
+    },
+    "lanie": {
+      "title": "Lerne Lanie kennen!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "platforms": {
+      "title": "Finde mich auf",
+      "discord": "Tritt dem Server bei"
+    },
+    "footer": {
+      "backToTop": "Zurück nach oben"
+    }
+  }
+}
